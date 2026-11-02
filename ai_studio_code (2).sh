@@ -1,0 +1,1 @@
+git push https://<YOUR_TOKEN>@github.com/Minakhairat/SuperMarketPro.git main --force
